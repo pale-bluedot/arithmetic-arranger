@@ -1,3 +1,13 @@
+################################################################################################
+# File name: arithmetic_arranger.py
+# Author: Johan Andrade
+# Date created: 07 / 21 / 2021
+# Date last modified  08 / 15 / 2021
+# Description: Function receives a list of strings that are arithmetic problems and returns the
+# problems arranged vertically and side-by-side.
+# Refer to README.md for full description
+################################################################################################
+
 import re
 
 
